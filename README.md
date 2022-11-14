@@ -7,13 +7,20 @@
     GOOD LUCK!!!
 
 ### Installation
-    -Clone the repo from here @ github: https://github.com/rayjohn666/Timed-quiz.git 
+    -Clone the repo from here @ github: [link to repo] (https://github.com/rayjohn666/Timed-quiz.git)
     -You can the open the files on your favorite code editor and view the index.html file in your browser.
-    -Alternatively you can follow the live link to the page located in the repo or this read me. https://rayjohn666.github.io/Timed-quiz/
+    -Alternatively you can follow the live link to the page located in the repo or this read me. [link to quiz]  (https://rayjohn666.github.io/Timed-quiz/)
 ### Preview
-./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.01.32 PM.png
-./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.02.53 PM.png
-./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.04.02 PM.png
+<img
+  src="./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.01.32 PM.png"
+     src="./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.02.53 PM.png"
+     src="./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.04.02 PM.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+
 ### License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
