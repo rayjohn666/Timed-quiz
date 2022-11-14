@@ -13,8 +13,18 @@
 ### Preview
 <img
   src="Assets/Images/Screen Shot 2022-11-13 at 8.01.32 PM.png"
-     src="Assets/Images/Screen Shot 2022-11-13 at 8.02.53 PM.png"
-     src="Assets/Images/Screen Shot 2022-11-13 at 8.04.02 PM.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="Assets/Images/Screen Shot 2022-11-13 at 8.02.53 PM.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="Assets/Images/Screen Shot 2022-11-13 at 8.04.02 PM.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
