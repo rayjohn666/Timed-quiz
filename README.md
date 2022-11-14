@@ -9,8 +9,7 @@
 ### Installation
     -Clone the repo from here @ github: https://github.com/rayjohn666/Timed-quiz.git 
     -You can the open the files on your favorite code editor and view the index.html file in your browser.
-    -Alternatively you can follow the live link to the page located in the repo or this read me.
-
+    -Alternatively you can follow the live link to the page located in the repo or this read me. https://rayjohn666.github.io/Timed-quiz/
 ### Preview
 ./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.01.32 PM.png
 ./Timed-quiz/Assets/Images/Screen Shot 2022-11-13 at 8.02.53 PM.png
